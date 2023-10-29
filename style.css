@@ -1,0 +1,27 @@
+
+    html{
+      background-color: black;
+    }
+
+    .image1{
+      width: 100%;
+      padding:2px;
+      border: 3px solid white;
+    }
+
+    .title{
+      font-family: 'Libre Baskerville', serif;
+      color:white;
+      text-align: center;
+      text-transform: uppercase;
+    }
+
+    .description{
+      color:white;
+      text-align: center;
+    }
+
+    .meme{
+      width: 50%;
+      margin-left: 25%;
+    }
